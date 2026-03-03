@@ -1,0 +1,5 @@
+Build a backend API that accepts a PDF file, extracts the starting text from it, and returns a structured JSON response.
+.Create a Endpoint. (that accept the exact formate of file, extract text,retrun a json response of success  )
+.File Validation
+.Extract Text from PDF (starting 200 characters)
+.Additionaly it alos handle the pdf file which is empty or null 
